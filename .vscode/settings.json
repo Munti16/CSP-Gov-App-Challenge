@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CSP Gov App.sln"
+    "dotnet.defaultSolution": "CSP-Gov-App-Challenge.sln"
 }
